@@ -1632,7 +1632,7 @@
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02Z82ZUJHCC</string>
 			<key>SystemUUID</key>
@@ -1643,21 +1643,19 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string>F5K9031084NFHDDUE</string>
+			<string>C02934802GUJH4RFB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>
-			WZizMtg+
-			</data>
+			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,2</string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02Z82ZUJHCC</string>
 			<key>SystemUUID</key>
@@ -1676,11 +1674,9 @@
 			f////wgAAAA=
 			</data>
 			<key>MLB</key>
-			<string>F5K9031084NFHDDUE</string>
+			<string>C02934802GUJH4RFB</string>
 			<key>ROM</key>
-			<data>
-			WZizMtg+
-			</data>
+			<data>ESIzAAAA</data>
 			<key>SystemSerialNumber</key>
 			<string>C02Z82ZUJHCC</string>
 			<key>SystemUUID</key>
