@@ -34,6 +34,7 @@ For general installation instructions, please refer to [Dortania's OpenCore Inst
 
 ## Not Working:
 - MX 150 (Blame Nvidia) 🚫;
+- AirDrop, continuity camera, continuity microphone (IPhone) (Need change wireless/bluetooth adapter for a native. example Bcm94360ng) 🚫;
 
 ## Notes
 
