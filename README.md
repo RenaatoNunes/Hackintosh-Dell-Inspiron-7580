@@ -1,11 +1,39 @@
 # Hackintosh-Dell-7580
 
-## Tested and working with Monterey
+## Tested and working with Ventura 13.1
 
-For BigSur I recommend using: [queensferryme/Hackintosh-Dell-7580](https://github.com/queensferryme/Hackintosh-Dell-7580)
+`Opencore Version : 0.8.8`
+
+For Monterey I recommend using: [queensferryme/Hackintosh-Dell-7580](https://github.com/queensferryme/Hackintosh-Dell-7580)
 #
 
-For general installation instructions, please refer to [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/). This project is greatly inspired by [queensferryme/Hackintosh-Dell-7580](https://github.com/queensferryme/Hackintosh-Dell-7580) (which works great with Big Sur)
+| Specifications | Detail                                           |
+| ------------------- | ------------------------------------------- |
+| Computer model      | Dell 7580 (MX 150)                          |
+| Processor           | Intel Core i7-8565u                         |
+| Memory              | 16GB 2400MHz DDR4                           |
+| Integrated Graphics | Intel UHD Graphics 620                      |
+
+For general installation instructions, please refer to [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/). This project is greatly inspired by [queensferryme/Hackintosh-Dell-7580](https://github.com/queensferryme/Hackintosh-Dell-7580) (which works great with Monterey)
+
+## Working:
+
+- Wifi ✅;
+- Bluetooth ✅;
+- Trackpad ✅;
+- Intel UHD Graphics 620 ✅;
+- Webcam ✅;
+- Audio ✅;
+- Microfone ✅;
+- Network (Wired network) ✅;
+- All usb and type-c (you are able to use this slot to charge your computer) ✅;
+- Keyboard and commands fn, backlight shortcut (Fn + S or Fn + B) ✅;
+- HDMI (image and audio) ✅;
+- Battery and power display ✅;
+- CPU frequency & power & temperature & utilization ✅;
+
+## Not Working:
+- MX 150 (Blame Nvidia) 🚫;
 
 ## Notes
 
