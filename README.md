@@ -2,7 +2,7 @@
 
 ## Tested and working with Ventura 13.1
 
-`Opencore Version : 0.8.8`
+`Opencore Version : 0.9.0`
 
 For Monterey I recommend using: [queensferryme/Hackintosh-Dell-7580](https://github.com/queensferryme/Hackintosh-Dell-7580)
 #
